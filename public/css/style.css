@@ -17,7 +17,7 @@ body{
     padding: 70px 0 10px 0;
 }
 
-.login-form input[type="password"],.login-form [type="text"] {
+.login-form input[type="password"], .login-form input[type="text"] {
     width: 100%;
     padding: 15px;
     border: 1px solid #ced4da;
@@ -45,7 +45,7 @@ body{
 }
 
 .btn-login:focus {
-    box-shadow: 0 0 0 3px rgba(121, 82, 179, 0.25);
+    box-shadow: 0 0 0 3px rgba(6, 12, 126, 0.25);
 }
 
 /* Register button Style*/
