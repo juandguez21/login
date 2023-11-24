@@ -52,6 +52,7 @@ app.get ('/register', (req, res)=>{
 });
 
 // 11.- Register
+
 app.post('/register', async(req, res)=>{
     const user = req.body.user;
     const name = req.body.name;
